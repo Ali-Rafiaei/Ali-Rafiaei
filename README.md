@@ -34,7 +34,7 @@ to enable natural language interaction with 3D scenes.
 |---|---|
 | [bin-picking-pose-estimation](https://github.com/Ali-Rafiaei/bin-picking-pose-estimation) | 6D pose estimation for robotic bin-picking — IBPC 2025, OpenCV sponsored |
 | [LawQA-RAG](https://github.com/Ali-Rafiaei/LawQA-RAG) | Legal question answering over 100k documents using Llama-2, LangChain, Pinecone |
-| Blenderproc-Data-Generation | Synthetic RGB-D data generation for pose estimation training and template building |
+| [rag-research-assistant](https://github.com/Ali-Rafiaei/rag-research-assistant) | Multi-paper RAG assistant with cross-paper citations — LangChain, ChromaDB, Gemini, deployed on HuggingFace Spaces |
 
 ---
 
