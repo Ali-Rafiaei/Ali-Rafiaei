@@ -12,14 +12,6 @@ and no task-specific training.
 
 [Paper](https://arxiv.org/abs/2609.06726) | [Code](https://github.com/Ali-Rafiaei/B2TFPose) | [Live demo](https://prtfndr.rcvlab.ca/)
 
-## Tech
-
-Core: Python, PyTorch, OpenCV, Open3D, NumPy
-
-ML/AI: deep learning, instance segmentation, 6D pose estimation, LangChain, RAG, HuggingFace
-
-Tools: ROS2, Docker, W&B, PyTorch Lightning, SLURM
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Rafiaei-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-rafiaei-76019295)
